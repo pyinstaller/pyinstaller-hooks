@@ -1,0 +1,9 @@
+# Configuration documentation: https://docs.landscape.io/configuration.html
+
+doc-warnings: yes
+max-line-length: 80
+python-targets:
+    - 2
+    - 3
+pyflakes:
+    run: false

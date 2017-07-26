@@ -1,0 +1,3 @@
+include hooks/*
+include hooks/*/*
+include COPYING.txt

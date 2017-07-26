@@ -1,0 +1,60 @@
+*~
+.\#*
+\#*#
+
+*.py[co]
+__pycache__/
+/*.egg
+/*.egg-info/
+/*.egg-link
+
+# /
+/*.bak
+/build/
+/dist/
+/*.patch
+/MANIFEST
+
+# Temporary vim files
+*.swp
+
+# Temporary rope files
+.ropeproject
+
+# PyCharm settings
+.idea
+
+# /tests/
+/tests/build*
+/tests/dist*
+/tests/logdict*.log
+/tests/test*.exe
+/tests/warn*.txt
+/tests/python_exe.build
+/tests/report.xml
+
+/tests/**/build/
+/tests/**/dist/
+
+# Ignore generated spec-files
+# NB: You can still add .spec-files to be tracked using `git add`
+/tests/old_suite/**/*.spec
+
+# /tests/functional/data
+/tests/functional/data/sphinx/_build
+
+/old/e2etests/common/hanoi[1-9]
+
+# /doc/
+/doc/source/_definitions.txt
+/doc/man/_pyi*.tmp
+/doc/_build
+
+# Mac OS X
+.DS_store
+
+# Windows debug symbols
+*.pdb
+
+# py.test cache folder
+.cache
