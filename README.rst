@@ -1,4 +1,4 @@
-“Hook” file for PyInstaller
+“Hook” files for PyInstaller
 ==================================
 
 This package includes the “hook” files extending PyInstaller to adapt it to
