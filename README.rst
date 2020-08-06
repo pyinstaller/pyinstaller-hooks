@@ -1,6 +1,8 @@
 “Hook” files for PyInstaller
 ==================================
 
+THIS REPOSITORY IS DEPRECATED. Please see `pyinstaller-hooks-contrib <https://github.com/pyinstaller/pyinstaller-hooks-contrib>`_ instead.
+------------------------------------------------------------------------------------------------------------------------------------------
 This package includes the “hook” files extending PyInstaller to adapt it to
 the special needs and methods used by a Python package.
 
